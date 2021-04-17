@@ -10,3 +10,8 @@ h1{color:grey;font-family:verdana}
     align-self:center;
 }
 
+mark {
+    background-color: yellow;
+    color:black;
+  }
+
